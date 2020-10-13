@@ -11,5 +11,5 @@ My exact intrests at any given time can be obtained by computing the absolute ba
 - **Github** (You are here :smiley: ) 
 
 ##### Other profiles
-- [Wikimedia Tech](https://wikicontrib.toolforge.org/sohom-datta-d74ab148e/) (General activity overview)
-- [Gerrit Wikimedia](https://gerrit.wikimedia.org/r/q/owner:sohom.datta%2540learner.manipal.edu) (Code review platform at Wikimedia)
+- [Wikimedia Phabricator](https://phabricator.wikimedia.org/p/Soda/) (Bug reporting platform of Wikimedia)
+- [Wikimedia Gerrit](https://gerrit.wikimedia.org/r/q/owner:sohom.datta%2540learner.manipal.edu) (Code review platform at Wikimedia)
