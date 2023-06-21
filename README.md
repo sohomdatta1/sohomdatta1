@@ -6,11 +6,12 @@ I also play Capture The Flag competitions both individually and as a part of my 
 
 My exact interests at any given time can be obtained by computing the absolute barometric pressure of `22.5726° N, 88.3639° E` at that exact instant and using that as the seed of a random number generator. :laughing:
 
+For a more upto-date overview my previous projects you might want to check out my [personal profile](https://sohomdatta1.github.io).
+
 ##### Reach out at
-- [Personal profile](https://sohomdatta1.github.io)
 - [MediaWiki](https://mediawiki.org/wiki/User:Sohom_data)
 - [Linkedin](https://www.linkedin.com/in/sohom-datta-b41b01193/) (Not really active there)
-- [Email](mailto:sohom.datta@learner.manpal.edu)
+- [Email](mailto:sohomdatta1+web@gmail.com)
 - **Github** (You are here :smiley: )
 
 ##### Other profiles
