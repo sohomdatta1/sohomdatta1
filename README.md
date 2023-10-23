@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sohom Datta (aka `Soda` aka `Sodium`), a student at [Manipal Institute of Technology](https://en.wikipedia.org/wiki/Manipal_Institute_of_Technology). I generally contribute to repositories that are related to the [Wikimedia movement](https://en.wikipedia.org/wiki/Wikimedia) in my capacity as a volunteer developer, though you may also find me hacking on other stuff depending on what I find really intresting or particularly frustrating during that time.
+I'm Sohom Datta (aka `Soda` aka `Sodium`), a developer and cybersecurity enthusiast. I generally contribute to repositories that are related to the [Wikimedia movement](https://en.wikipedia.org/wiki/Wikimedia) in my capacity as a volunteer developer, though you may also find me hacking on other stuff depending on what I find really intresting or particularly frustrating during that time.
 
 I also play Capture The Flag competitions both individually and as a part of my college team, [Cryptonite](https://github.com/Cryptonite-MIT) focussing on the web(-browser) security and binary exploitation categories.
 
