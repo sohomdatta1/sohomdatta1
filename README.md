@@ -2,15 +2,15 @@
 
 I'm Sohom Datta (aka `Soda` aka `Sodium`), a developer and cybersecurity enthusiast. I generally contribute to repositories that are related to the [Wikimedia movement](https://en.wikipedia.org/wiki/Wikimedia) in my capacity as a volunteer developer, though you may also find me hacking on other stuff depending on what I find really intresting or particularly frustrating during that time.
 
-I also play Capture The Flag competitions both individually and as a part of my college team, [Cryptonite](https://github.com/Cryptonite-MIT) focussing on the web(-browser) security and binary exploitation categories.
+I also play Capture The Flag competitions in my individual capacity and sometimes as a part of my (former) college team, [Cryptonite](https://github.com/Cryptonite-MIT) focussing on the web(-browser) security and binary exploitation categories.
 
 My exact interests at any given time can be obtained by computing the absolute barometric pressure of `22.567500 N, 88.370000 E` at that exact instant and using that as the seed of a random number generator. :laughing:
 
 For a more upto-date overview my previous projects you might want to check out my [personal profile](https://sohomdatta1.github.io).
 
 ##### Reach out at
-- [MediaWiki](https://mediawiki.org/wiki/User:Sohom_data)
-- [Linkedin](https://www.linkedin.com/in/sohom-datta-b41b01193/) (Not really active there)
+- [MediaWiki](https://mediawiki.org/wiki/User:Sohom_Datta)
+- [Linkedin](https://www.linkedin.com/in/sohom-datta-c29ob20k/) (Not really active there)
 - [Email](mailto:sohomdatta1+web@gmail.com)
 - **Github** (You are here :smiley: )
 
